@@ -76,7 +76,7 @@ main div h1{
 	padding-right: 4%;
 }
 .TopPhoto{
-	background-image: url(DSC05721.jpg);
+	background-image: url("https://github.com/Soh-Kim/My_HP/blob/main/DSC05721.JPG?raw=true");
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 70vh;
@@ -108,7 +108,7 @@ article h2{
 	font-size: 2rem;
 }
 .品種育成の流れPhoto{
-	background-image: url(圃場.jpg);
+	background-image: url("https://github.com/Soh-Kim/My_HP/blob/main/%E5%9C%83%E5%A0%B4.JPG?raw=true");
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 55%;
@@ -130,7 +130,7 @@ article h2{
 	margin-right: 10%;
 }
 .関連情報Photo{
-	background-image: url(DSC06316.jpg);
+	background-image: url("https://github.com/Soh-Kim/My_HP/blob/main/DSC06316.JPG?raw=true");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 40vh;
@@ -144,7 +144,7 @@ article h2{
 	font-size: 2rem;
 }
 .取り組みPhoto{
-	background-image: url(DSC06047.jpg);
+	background-image: url("https://github.com/Soh-Kim/My_HP/blob/main/DSC06047.JPG?raw=true");
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 55%;
