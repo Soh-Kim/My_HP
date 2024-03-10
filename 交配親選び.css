@@ -66,7 +66,7 @@ main{
 }
 /*トップの写真*/
 .交配親選びPhoto{
-	background-image: url(品種群.jpg);
+	background-image: url("https://github.com/Soh-Kim/My_HP/blob/main/%E5%93%81%E7%A8%AE%E7%BE%A4.JPG?raw=true");
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 60vh;
