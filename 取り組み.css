@@ -65,7 +65,7 @@ main{
 }
 /*トップ写真のCSS*/
 .TopPhoto{
-	background-image: url(DSC06047.jpg);
+	background-image: url("https://github.com/Soh-Kim/My_HP/blob/main/DSC06047.JPG?raw=true");
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 100%;
@@ -89,7 +89,7 @@ section h2{
 	font-size: 2rem;
 }
 .育種期間の短縮Photo{
-	background-image: url(DSC05719.jpg);
+	background-image: url("https://github.com/Soh-Kim/My_HP/blob/main/DSC05719.JPG?raw=true");
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 55%;
@@ -107,7 +107,7 @@ section h2{
 	font-size: 2rem;
 }
 .属間交雑の簡易化Photo{
-	background-image: url(DSC06504.jpg);
+	background-image: url("https://github.com/Soh-Kim/My_HP/blob/main/DSC06504.JPG?raw=true");
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 55%;
@@ -125,7 +125,7 @@ section h2{
 	font-size: 2rem;
 }
 .収穫期の拡大Photo{
-	background-image: url(DSC06428.jpg);
+	background-image: url("https://github.com/Soh-Kim/My_HP/blob/main/DSC06428.JPG?raw=true");
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 55%;
@@ -143,7 +143,7 @@ section h2{
 	font-size: 2rem;
 }
 .突然変異収集Photo{
-	background-image: url(DSC05955.jpg);
+	background-image: url("https://github.com/Soh-Kim/My_HP/blob/main/DSC05955.JPG?raw=true");
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 55%;
