@@ -1,0 +1,90 @@
+@charset "UTF-8";
+
+/*ヘッダー関係のCSS*/
+header{
+	height: 90px;
+	border-bottom: 1px solid;
+	padding-left: 300px;
+	padding-right: 300px;
+	display: flex;
+	justify-content: space-between;
+	font-family: 'Noto Serif JP', serif;
+}
+.headerh1{
+	margin: 0px;
+	height: 50px;
+	margin-top: 20px;
+	font-size: 3rem;
+}
+.headerh1 a{
+	text-decoration: none;
+	color: #000000;
+}
+.headernav{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+	padding-top: 60px;
+}
+.headernav li{
+	margin-left: 30px;
+}
+.headernav li a{
+	text-decoration: none;
+	color: #000000;
+}
+
+/*メイン関係のCSS*/
+main{
+	padding-left: 300px;
+	padding-right: 300px;
+	font-family: 'Noto Serif JP', serif;
+}
+/*パンくずリスト*/
+.bread{
+	margin: 10px;
+	padding: 0px;
+	list-style: none;
+}
+.bread li{
+	display: inline;
+	list-style: none;
+}
+.bread li:after{
+	content: ">";
+}
+.bread li:last-child;after{
+	content: "";
+}
+.bread li:hover{
+	text-decoration: underline;
+}
+.bread li a{
+	color: #000000;
+}
+/*トップの写真*/
+.交配親選びPhoto{
+	background-image: url(品種群.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 60vh;
+	width: 100%;
+}
+
+
+/*フッターのCSS*/
+footer{
+	border-top: 1px solid;
+	display: flex;
+	padding-left: 300px;
+	padding-right: 300px;
+	font-family: 'Noto Serif JP', serif;
+}
+.ページ情報{
+	width: 40%;
+}
+.管理人情報{
+	width: 60%;
+}
